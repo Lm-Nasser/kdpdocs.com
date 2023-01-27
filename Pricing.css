@@ -1,0 +1,89 @@
+/* BODY */
+body {background-color: #EEEEEE;    margin: 0%;    padding: 0%;}
+
+/* TOP NAV BAR */
+.nav-bar-element {height: 7rem;    background-color: #393E46;}
+
+.Logo {float: left;    width: auto;    height: 4rem;    margin-left: 5rem;  margin-top: 2rem;}
+
+.topnav {overflow: hidden;    float: right;    margin-top: 2rem; margin-right: 5rem;}
+
+.topnav a {color: #EEEEEE;    text-align: center;    padding: 0.875rem 1rem; text-decoration: none;
+    font-size: 1.0625rem;}
+
+.topnav a:hover {background-color: #222831;    color: #EEEEEE;}
+
+.topnav a.active {background-color: #00ADB5;    color: #EEEEEE;}
+/* BODY */
+.body-head-line{font-size: 5rem; text-align: center;}
+
+.Plans{padding-top: 3rem; padding-bottom: 3rem; margin-bottom: 5rem; background-color: #222831;
+        padding-left: 1%; padding-right: 1%; width: auto; background-image: url(Element/5329549.png);
+        background-repeat: no-repeat; background-size: cover;display: flex;}
+
+.Cards{margin: 1rem; border-radius: 0.5rem; }
+
+.Cards:hover{transform: translateY(-5%);}
+
+.Cards h4{text-align: center; color: #EEEEEE;}
+
+.Cards p{font-size: 1rem; padding-left: 0.625rem; color: #EEEEEE;}
+
+.Cards button a{text-decoration: none; color: #393E46;  display: inline;}
+
+.Cards button{margin-left: 1.25rem; background-color: #00ADB5; 
+        border-style: none; height: 40px; width: auto; border-radius: 0.5rem; }
+
+.Standard {width: 23rem; height: 23rem; border: #393E46 0.125rem solid; 
+        font-size: 1.5rem; background-color: #393E46; margin-left: 0.625rem;
+        /*===========POSITION===========*/
+       }
+
+.Premium{width: 23rem; height: 23rem; border: #393E46 0.125rem solid; 
+        font-size: 1.5rem; background-color: #393E46; margin-left: 0.625rem;
+        /*===========POSITION===========*/
+        }
+
+.Advanced{width: 23rem; height: 23rem; border: #393E46 0.125rem solid; 
+        font-size: 1.5rem; background-color: #393E46; margin-left: 0.625rem;
+        /*===========POSITION===========*/
+        }
+
+.Ultimate{width: 23rem; height: 23rem; border: #393E46 0.125rem solid; 
+        font-size: 1.5rem; background-color: #393E46; margin-left: 0.625rem;
+        /*===========POSITION===========*/
+        }
+/* FOOTER */
+footer {
+        background-image: url(Element/fotter.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-top: 0rem;
+        background-color: #393E46;
+        color: #EEEEEE;
+        height: 25rem;
+        padding-top: 2rem;
+    }
+    
+    footer h3 {color: #EEEEEE;}
+    
+    footer a {color: #EEEEEE; text-decoration: none;}
+    
+    .row {padding-left: 5rem;}
+    
+    .logo-address {float: left;}
+    
+    .Logo1 img {width: auto; height: 4rem;}
+    
+    .Quick-Links {float: left; margin-right: 5rem; margin-left: 5rem;}
+    
+    .Follow-Us {float: left; margin-right: 5rem}
+    
+    .Follow-Us ul {color: #EEEEEE; list-style: none; padding: 0%;}
+    
+    .Follow-Us li {display: inline-block;    margin: 0.4rem;}
+    
+    .Follow-Us li a {color: #EEEEEE; font-size: 1.125rem;}
+    
+    /*.Secure-Checkout{}*/
+    .Secure-Checkout img {float: right; width: 25rem; position: relative; right: 9rem; display: block;}

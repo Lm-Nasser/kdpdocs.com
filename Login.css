@@ -1,0 +1,73 @@
+/* BODY */
+body {background-color: #EEEEEE; margin: 0%;    padding: 0%;}
+
+/* TOP NAV BAR */
+.nav-bar-element {height: 7rem; background-color: #393E46;}
+
+.Logo {float: left; width: auto; height: 4rem; margin-left: 5rem; margin-top: 2rem;}
+
+.topnav {overflow: hidden; float: right; margin-top: 2rem; margin-right: 5rem;}
+
+.topnav a {color: #EEEEEE;text-align: center; padding: 0.875rem 1rem; text-decoration: none;
+    font-size: 1.0625rem;}
+
+.topnav a:hover {background-color: #222831;color: #EEEEEE;}
+
+.topnav a.active { background-color: #00ADB5;color: #EEEEEE;}
+
+/* PAGE CONTENT */
+.Login-body{display: flex; margin-top: 5rem; margin-bottom: 5rem; justify-content: center;
+            background-color: #222831; height: 25rem;background-image: url('Element/5329549.png');
+            background-repeat: no-repeat; background-size: cover; position: relative;}
+
+.Login1{ margin: 0; position: absolute;
+  top: 50%;left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);}
+
+.Login-headline{text-align: center; color: #EEEEEE}
+
+.Login-email{display: block; width: 25rem; height: 2rem; margin-bottom: 1rem; border: #222831 2px solid;}
+
+.Login-password{display: block; width: 25rem; height: 2rem;margin-bottom: 1rem; border: #222831 2px solid;}
+
+.Login-checkbox{display: inline-block; float: left; margin-right: 1rem;margin-left: 1rem;margin-bottom: 1rem;}
+
+.Login-K-M-L-I{margin: 0rem; color: #EEEEEE}
+
+.Login-btn{width: 25rem; height: 2rem; margin: 2rem 0 1rem 0; border-radius: 0.5rem;
+    background-color: #00ADB5; border-style: none; color: #222831; border: #222831 2px solid;display: block;}
+
+.To-sing-up{float: right; color: #EEEEEE; font-weight: bold;}
+/* FOOTER */
+footer {background-image: url(Element/fotter.png); background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 0rem;
+    background-color: #393E46;
+    color: #EEEEEE;
+    height: 25rem;
+    padding-top: 2rem;
+}
+
+footer h3 {color: #EEEEEE;}
+
+footer a {color: #EEEEEE; text-decoration: none;}
+
+.row {padding-left: 5rem;}
+
+.logo-address {float: left;}
+
+.Logo1 img {width: auto; height: 4rem;}
+
+.Quick-Links {float: left; margin-right: 5rem; margin-left: 5rem;}
+
+.Follow-Us {float: left; margin-right: 5rem}
+
+.Follow-Us ul {color: #EEEEEE; list-style: none; padding: 0%;}
+
+.Follow-Us li {display: inline-block;    margin: 0.4rem;}
+
+.Follow-Us li a {color: #EEEEEE; font-size: 1.125rem;}
+
+/*.Secure-Checkout{}*/
+.Secure-Checkout img {float: right; width: 25rem; position: relative; right: 9rem; display: block;}
